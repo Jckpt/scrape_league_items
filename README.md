@@ -3,15 +3,37 @@ This program scrapes items from https://leagueoflegends.fandom.com/ and puts the
 
 ```json
 {
-    "id": "0",
-    "name": "Guardian Angel",
-    "alternativeName": [],
-    "passive": "Unique – Rebirth: Upon taking lethal damage, enter  resurrection for 4 seconds, during which you are  invulnerable,  untargetable, and unable to act, and afterwards  heal for 50% of base health and restore 30% of maximum mana (300 (starts after resurrecting) second cooldown).",
-    "stats": [
-        "+40 attack damage",
-        "+40 armor"
-    ],
-    "consume": "undefined",
-    "file": "Guardian_Angel_item_HD.webp"
+  "item": [
+        {
+          "id": 0,
+          "name": "Abyssal Scepter",
+          "alternativeName": [],
+          "active": "undefined",
+          "passive": "undefined",
+          "stats": [
+            "+10% cooldown reduction",
+            "+300 health",
+            "+100% base health regeneration",
+            "+65 magic resistance"
+          ],
+          "consume": "undefined",
+          "file": "Abyssal_Scepter_item_HD.webp"
+        },
+        {
+          "id": 1,
+          "name": "Adaptive Helm",
+          "alternativeName": [],
+          "active": "undefined",
+          "passive": "Unique: Taking magic damage from a spell or effect reduces all subsequent magic damage taken from that source by 20% for 4 seconds. Multiple sources of magic damage can have this effect active at any one time and the duration is tracked separately per source.",
+          "stats": [
+            "+10% cooldown reduction",
+            "+350 health",
+            "+100% base health regeneration",
+            "+55 magic resistance"
+          ],
+          "consume": "undefined",
+          "file": "Adaptive_Helm_item_HD.webp"
+        }
+    ]
 }
 ```
