@@ -42,6 +42,12 @@ for i, scuffedName in enumerate(items):
     if "'s" in itemName:
         alternativeNames.append(itemName.replace("'s",""))
         alternativeNames.append(itemName.replace("'",""))
+    if " the" in itemName:
+        alternativeNames.append(itemName.replace(" the",""))
+    if " the" in itemName:
+        alternativeNames.append(itemName.replace(" the",""))
+    if "." in itemName:
+        alternativeNames.append(itemName.replace(".",""))
     fullItem = {
             'id': i,
             'name': itemName,

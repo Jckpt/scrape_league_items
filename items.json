@@ -136,7 +136,9 @@
     {
       "id": 9,
       "name": "B. F. Sword",
-      "alternativeName": [],
+      "alternativeName": [
+        "B F Sword"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [
@@ -217,7 +219,10 @@
     {
       "id": 15,
       "name": "Blade of the Ruined King",
-      "alternativeName": [],
+      "alternativeName": [
+        "Blade of Ruined King",
+        "Blade of Ruined King"
+      ],
       "active": "undefined",
       "passive": "Unique – Mist's Edge: Basic attacks deal ( 12% /  8%) of the target's current health bonus physical damage on-hit, with a minimum of 15 against all units and a maximum of 60 against minions and monsters.",
       "stats": [
@@ -595,7 +600,10 @@
     {
       "id": 44,
       "name": "Eye of the Equinox",
-      "alternativeName": [],
+      "alternativeName": [
+        "Eye of Equinox",
+        "Eye of Equinox"
+      ],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range).",
       "passive": "Unique – Spoils of War:  Melee basic attacks  execute minions below 340 − 680 (based on level) health. Attacks that trigger Spoils of War gain 150 bonus range and slightly increased attack speed. Killing a minion by any means  heals you and the nearest allied champion for 50 (+ 2% of missing health) and grants them the kill  gold. These effects require an allied champion within 1050 units of the user (20 seconds recharge time; 4 charges).",
       "stats": [
@@ -610,7 +618,10 @@
     {
       "id": 45,
       "name": "Eye of the Oasis",
-      "alternativeName": [],
+      "alternativeName": [
+        "Eye of Oasis",
+        "Eye of Oasis"
+      ],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range).",
       "passive": "Unique – Favor: Nearby enemy minions killed by an ally (excluding yourself) will sometimes drop a gold coin that can be picked up to either grant  40 or restore 6% missing mana (minimum 10).  Siege minions always drop a coin upon death as long as you did not kill them.",
       "stats": [
@@ -625,7 +636,10 @@
     {
       "id": 46,
       "name": "Face of the Mountain",
-      "alternativeName": [],
+      "alternativeName": [
+        "Face of Mountain",
+        "Face of Mountain"
+      ],
       "active": "Unique – Deadly Phalanx:  Shield yourself and an ally equal to 10% of your maximum health for 4 seconds. Afterwards, the shield is consumed to  slow nearby enemies by 40% for 2 seconds (60 second cooldown).",
       "passive": "Unique – Spoils of War:  Melee basic attacks  execute minions below 340 − 680 (based on level) health. Attacks that trigger Spoils of War gain 150 bonus range and slightly increased attack speed. Killing a minion by any means  heals you and the nearest allied champion for 50 (+ 2% of missing health) and grants them the kill  gold. These effects require an allied champion within 1050 units of the user (20 seconds recharge time; 4 charges).",
       "stats": [
@@ -640,7 +654,10 @@
     {
       "id": 47,
       "name": "Face of the Mountain",
-      "alternativeName": [],
+      "alternativeName": [
+        "Face of Mountain",
+        "Face of Mountain"
+      ],
       "active": "Unique – Deadly Phalanx:  Shield yourself and an ally equal to 10% of your maximum health for 4 seconds. Afterwards, the shield is consumed to  slow nearby enemies by 40% for 2 seconds (60 second cooldown).",
       "passive": "Unique – Spoils of War:  Melee basic attacks  execute minions below 340 − 680 (based on level) health. Attacks that trigger Spoils of War gain 150 bonus range and slightly increased attack speed. Killing a minion by any means  heals you and the nearest allied champion for 50 (+ 2% of missing health) and grants them the kill  gold. These effects require an allied champion within 1050 units of the user (20 seconds recharge time; 4 charges).",
       "stats": [
@@ -2150,7 +2167,10 @@
     {
       "id": 156,
       "name": "Spirit of the Ancient Golem",
-      "alternativeName": [],
+      "alternativeName": [
+        "Spirit of Ancient Golem",
+        "Spirit of Ancient Golem"
+      ],
       "active": "Hunter's Ward: Places a  Stealth Ward at the target location that grants  sight of the surrounding area and lasts for 180 seconds (180 second cooldown; 600 range).",
       "passive": "Unique: Increase bonus health by 25%.",
       "stats": [
@@ -2164,7 +2184,10 @@
     {
       "id": 157,
       "name": "Spirit of the Elder Lizard",
-      "alternativeName": [],
+      "alternativeName": [
+        "Spirit of Elder Lizard",
+        "Spirit of Elder Lizard"
+      ],
       "active": "undefined",
       "passive": "Unique – Incinerate: Dealing physical damage deals 16 − 50 (based on level) bonus true damage over 3 seconds.",
       "stats": [
@@ -2177,7 +2200,10 @@
     {
       "id": 158,
       "name": "Spirit of the Spectral Wraith",
-      "alternativeName": [],
+      "alternativeName": [
+        "Spirit of Spectral Wraith",
+        "Spirit of Spectral Wraith"
+      ],
       "active": "undefined",
       "passive": "Unique – Spirit Drain: Grants 2 ability power for every large monster kill, up to 30.",
       "stats": [
@@ -2348,7 +2374,10 @@
     {
       "id": 170,
       "name": "Sword of the Occult",
-      "alternativeName": [],
+      "alternativeName": [
+        "Sword of Occult",
+        "Sword of Occult"
+      ],
       "active": "undefined",
       "passive": "Unique: Gain 5 bonus attack damage per stack, automatically starting with 5 stacks upon purchase. Grants 2 stacks per kill and 1 stack per assist, up to 20 stacks, for a total of 100 bonus attack damage. Half of the stacks are lost upon death. At maximum stacks, grants 20% bonus attack speed.",
       "stats": [
@@ -2377,7 +2406,10 @@
     {
       "id": 172,
       "name": "Tear of the Goddess",
-      "alternativeName": [],
+      "alternativeName": [
+        "Tear of Goddess",
+        "Tear of Goddess"
+      ],
       "active": "undefined",
       "passive": "Unique – Focus: Basic attacks deal 5 bonus physical damage on-hit against minions.",
       "stats": [
@@ -2579,7 +2611,10 @@
     {
       "id": 187,
       "name": "Will of the Ancients",
-      "alternativeName": [],
+      "alternativeName": [
+        "Will of Ancients",
+        "Will of Ancients"
+      ],
       "active": "undefined",
       "passive": "Unique:  Heal for 15% of all pre-mitigation damage dealt (including  true damage) by abilities.  Area damage only heals 5% for every unit affected.",
       "stats": [
