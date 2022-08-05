@@ -73,7 +73,10 @@
     {
       "id": 5,
       "name": "Archangel's Staff",
-      "alternativeName": [],
+      "alternativeName": [
+        "Archangel Staff",
+        "Archangels Staff"
+      ],
       "active": "undefined",
       "passive": "Unique – Awe: Grants ability haste equal to 0.5% bonus mana.",
       "stats": [
@@ -87,7 +90,10 @@
     {
       "id": 6,
       "name": "Athene's Unholy Grail",
-      "alternativeName": [],
+      "alternativeName": [
+        "Athene Unholy Grail",
+        "Athenes Unholy Grail"
+      ],
       "active": "undefined",
       "passive": "Unique: Gain 35% of the pre-mitigation damage dealt to champions as Blood Charges, up to 100 − 250 (based on level).  Healing or  shielding an ally (excluding yourself) consumes charges equal to 100% of the heal or shield, to heal them, up to the original effect amount.",
       "stats": [
@@ -102,7 +108,10 @@
     {
       "id": 7,
       "name": "Atma's Impaler",
-      "alternativeName": [],
+      "alternativeName": [
+        "Atma Impaler",
+        "Atmas Impaler"
+      ],
       "active": "undefined",
       "passive": "Unique: Gain bonus attack damage equal to 1.5% of your maximum health.",
       "stats": [
@@ -149,7 +158,10 @@
     {
       "id": 11,
       "name": "Bami's Cinder",
-      "alternativeName": [],
+      "alternativeName": [
+        "Bami Cinder",
+        "Bamis Cinder"
+      ],
       "active": "undefined",
       "passive": "Unique – Immolate: Taking or dealing damage activates this passive for 3 seconds. Deal 12 (+ 1% bonus health) magic damage every second to enemies within  325 (+ 100% bonus size) units, increased by 25% against minions and monsters. This executes minions that would be killed by one more tick of damage.",
       "stats": [
@@ -175,7 +187,10 @@
     {
       "id": 13,
       "name": "Banshee's Veil",
-      "alternativeName": [],
+      "alternativeName": [
+        "Banshee Veil",
+        "Banshees Veil"
+      ],
       "active": "undefined",
       "passive": "Unique – Annul: Grants a  spell shield that blocks the next hostile ability (40 (restarts upon taking damage from champions) second cooldown).",
       "stats": [
@@ -252,7 +267,10 @@
     {
       "id": 19,
       "name": "Brawler's Gloves",
-      "alternativeName": [],
+      "alternativeName": [
+        "Brawler Gloves",
+        "Brawlers Gloves"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [
@@ -388,7 +406,10 @@
     {
       "id": 30,
       "name": "Dead Man's Plate",
-      "alternativeName": [],
+      "alternativeName": [
+        "Dead Man Plate",
+        "Dead Mans Plate"
+      ],
       "active": "undefined",
       "passive": "Unique – Shipwrecker: While moving, generates 7 stacks of Momentum each 0.25 seconds, granting up to 40 bonus movement speed at 100 stacks after 3.75 seconds of moving. Momentum decays by 15 every 0.25 seconds while  immobilized. Basic attacks consume all stacks on-hit to deal 0 − 40 (based on Momentum) (+ 0% − 100% (based on Momentum) base AD) bonus physical damage. At maximum stacks, the target is also  slowed by 50% for 1 second.",
       "stats": [
@@ -429,7 +450,10 @@
     {
       "id": 33,
       "name": "Doran's Blade",
-      "alternativeName": [],
+      "alternativeName": [
+        "Doran Blade",
+        "Dorans Blade"
+      ],
       "active": "undefined",
       "passive": "Unique – Warmonger: +2.5% omnivamp",
       "stats": [
@@ -442,7 +466,10 @@
     {
       "id": 34,
       "name": "Doran's Ring",
-      "alternativeName": [],
+      "alternativeName": [
+        "Doran Ring",
+        "Dorans Ring"
+      ],
       "active": "undefined",
       "passive": "Unique – Focus: Basic attacks deal 5 bonus physical damage on-hit against  minions.",
       "stats": [
@@ -455,7 +482,10 @@
     {
       "id": 35,
       "name": "Doran's Shield",
-      "alternativeName": [],
+      "alternativeName": [
+        "Doran Shield",
+        "Dorans Shield"
+      ],
       "active": "undefined",
       "passive": "Unique – Focus: Basic attacks deal 5 bonus physical damage on-hit against minions.",
       "stats": [
@@ -468,7 +498,10 @@
     {
       "id": 36,
       "name": "Eleisa's Miracle",
-      "alternativeName": [],
+      "alternativeName": [
+        "Eleisa Miracle",
+        "Eleisas Miracle"
+      ],
       "active": "undefined",
       "passive": "Unique – Aid:  Heal,  Clarity and  Clairvoyance summoner spell cooldowns are reduced by 25%.",
       "stats": [
@@ -547,7 +580,10 @@
     {
       "id": 43,
       "name": "Executioner's Calling",
-      "alternativeName": [],
+      "alternativeName": [
+        "Executioner Calling",
+        "Executioners Calling"
+      ],
       "active": "undefined",
       "passive": "Unique – Rend: Dealing physical damage to enemy champions inflicts them with 25%  Grievous Wounds for 3 seconds.",
       "stats": [
@@ -672,7 +708,10 @@
     {
       "id": 52,
       "name": "Frost Queen's Claim",
-      "alternativeName": [],
+      "alternativeName": [
+        "Frost Queen Claim",
+        "Frost Queens Claim"
+      ],
       "active": "Unique: Summon 2 icy ghosts for 6 seconds that seek out enemy champions within a 4500 radius. Ghosts  reveal enemies on contact and  slow them by 40% for 2 - 5 seconds (90 second cooldown).",
       "passive": "Unique – Tribute: Grants a charge every 10 seconds, up to 3 charges. Damaging spells and attacks against champions and buildings consume a charge, up to one per attack or cast. Consuming a charge deals them 18 bonus magic damageand grants  15.",
       "stats": [
@@ -779,7 +818,10 @@
     {
       "id": 60,
       "name": "Guinsoo's Rageblade",
-      "alternativeName": [],
+      "alternativeName": [
+        "Guinsoo Rageblade",
+        "Guinsoos Rageblade"
+      ],
       "active": "undefined",
       "passive": "Unique – Wrath: Convert every 1% critical strike chance into 2 bonus physical damage on-hit, capped at 100% critical strike chance, for a maximum of 200 bonus physical damage on-hit. This damage is affected by  critical strike modifiers.",
       "stats": [
@@ -894,7 +936,10 @@
     {
       "id": 69,
       "name": "Hunter's Machete",
-      "alternativeName": [],
+      "alternativeName": [
+        "Hunter Machete",
+        "Hunters Machete"
+      ],
       "active": "undefined",
       "passive": "Unique – Nail: Basic attacks against  monsters deal 35 bonus physical damage on-hit.  Healing provided by this item is increased by 50% while below 30% maximum health.",
       "stats": [
@@ -906,7 +951,10 @@
     {
       "id": 70,
       "name": "Hunter's Potion",
-      "alternativeName": [],
+      "alternativeName": [
+        "Hunter Potion",
+        "Hunters Potion"
+      ],
       "active": "undefined",
       "passive": "Holds up to 5 charges that refill upon visiting the store. Killing large monsters grants one charge.",
       "stats": [],
@@ -916,7 +964,10 @@
     {
       "id": 71,
       "name": "Hunter's Talisman",
-      "alternativeName": [],
+      "alternativeName": [
+        "Hunter Talisman",
+        "Hunters Talisman"
+      ],
       "active": "undefined",
       "passive": "Unique – Tooth: Damaging a monster by most means sets it aflame, dealing an additional 60 magic damage over 5 seconds while causing you to  heal for 6 per second for every enemy being burned. Healing provided by this item is increased by 50% when below 30% maximum health. While in the jungle or river, regenerate 0 − 8 (based on missing mana) mana per second.",
       "stats": [],
@@ -1013,7 +1064,10 @@
     {
       "id": 79,
       "name": "Jaurim's Fist",
-      "alternativeName": [],
+      "alternativeName": [
+        "Jaurim Fist",
+        "Jaurims Fist"
+      ],
       "active": "undefined",
       "passive": "Unique: Killing a unit grants 5 bonus health, stacking up to 20 times for a maximum of 100.",
       "stats": [
@@ -1026,7 +1080,10 @@
     {
       "id": 80,
       "name": "Kage's Lucky Pick",
-      "alternativeName": [],
+      "alternativeName": [
+        "Kage Lucky Pick",
+        "Kages Lucky Pick"
+      ],
       "active": "undefined",
       "passive": "Unique – Lucky Shadow: +  5 per 10 seconds.",
       "stats": [
@@ -1088,7 +1145,10 @@
     {
       "id": 85,
       "name": "Liandry's Torment",
-      "alternativeName": [],
+      "alternativeName": [
+        "Liandry Torment",
+        "Liandrys Torment"
+      ],
       "active": "undefined",
       "passive": "Unique – Madness: Damaging an enemy  champion generates one stack every second for the next 4 seconds. Deal 2% increased damage for each stack, up to a maximum of 10%.",
       "stats": [
@@ -1115,7 +1175,10 @@
     {
       "id": 87,
       "name": "Lord Van Damm's Pillager",
-      "alternativeName": [],
+      "alternativeName": [
+        "Lord Van Damm Pillager",
+        "Lord Van Damms Pillager"
+      ],
       "active": "undefined",
       "passive": "Unique – Ashes to Ashes: Controlling the Altar on the allied side of the map sets you aflame, dealing 26 − 43 (based on level) magic damage per second to nearby enemies. Deals「 50% increased damage 」「 39 − 64.5 (based on level) magic damage 」to minions and monsters.Controlling the 'Altar' on the enemy's side of the map causes your basic attacks to apply a burn that deals 12 − 114 (based on level) true damage over 3 seconds.",
       "stats": [
@@ -1129,7 +1192,10 @@
     {
       "id": 88,
       "name": "Luden's Echo",
-      "alternativeName": [],
+      "alternativeName": [
+        "Luden Echo",
+        "Ludens Echo"
+      ],
       "active": "undefined",
       "passive": "Unique – Haste: Grants an additional 10% cooldown reduction.",
       "stats": [
@@ -1143,7 +1209,10 @@
     {
       "id": 89,
       "name": "Madred's Bloodrazor",
-      "alternativeName": [],
+      "alternativeName": [
+        "Madred Bloodrazor",
+        "Madreds Bloodrazor"
+      ],
       "active": "undefined",
       "passive": "Unique: Basic attacks deal 4% of the target's maximum health bonus magic damage on-hit, capped at 120 against monsters.",
       "stats": [
@@ -1157,7 +1226,10 @@
     {
       "id": 90,
       "name": "Madred's Razors",
-      "alternativeName": [],
+      "alternativeName": [
+        "Madred Razors",
+        "Madreds Razors"
+      ],
       "active": "undefined",
       "passive": "Unique – Maim: Basic attacks against monsters deal 50 bonus magic damage and  heal for 8.",
       "stats": [
@@ -1230,7 +1302,10 @@
     {
       "id": 96,
       "name": "Mercury's Treads",
-      "alternativeName": [],
+      "alternativeName": [
+        "Mercury Treads",
+        "Mercurys Treads"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [
@@ -1244,7 +1319,10 @@
     {
       "id": 97,
       "name": "Mikael's Crucible",
-      "alternativeName": [],
+      "alternativeName": [
+        "Mikael Crucible",
+        "Mikaels Crucible"
+      ],
       "active": "Unique: Remove all  crowd control debuffs (except  Airborne,  Blind,  Disarm,  Ground,  Nearsight, and  Suppression) from yourself or an allied champion and grant the target 2 seconds of  slow immunity. Successfully cleansing an effect will also grant the target 40% bonus movement speed for 2 seconds (120 second cooldown; 600 range).",
       "passive": "Unique: +20% heal and shield power",
       "stats": [
@@ -1271,7 +1349,10 @@
     {
       "id": 99,
       "name": "Nashor's Tooth",
-      "alternativeName": [],
+      "alternativeName": [
+        "Nashor Tooth",
+        "Nashors Tooth"
+      ],
       "active": "undefined",
       "passive": "Unique – Icathian Bite: Basic attacks deal 15 (+ 20% AP) bonus magic damage on-hit.",
       "stats": [
@@ -1320,7 +1401,10 @@
     {
       "id": 103,
       "name": "Nomad's Medallion",
-      "alternativeName": [],
+      "alternativeName": [
+        "Nomad Medallion",
+        "Nomads Medallion"
+      ],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (3 charges; 600 range).",
       "passive": "Unique – Favor: Nearby enemy  minions killed by an ally (excluding yourself) will sometimes drop a gold coin that can be picked up to either grant  50 or restore 6% missing mana (minimum 10). Coin can only drop if an allied  champion is nearby.  Siege minions always drop a coin upon death as long as you did not kill them.",
       "stats": [
@@ -1362,7 +1446,10 @@
     {
       "id": 106,
       "name": "Oponn's Razor",
-      "alternativeName": [],
+      "alternativeName": [
+        "Oponn Razor",
+        "Oponns Razor"
+      ],
       "active": "undefined",
       "passive": "Unique: Basic attacks against enemy champions have a 30% chance to apply a debuff to the target for 8 seconds, granting 8 bonus magic damage on-hit. Stacks up to a maximum of 6 times, for a total of 48.",
       "stats": [
@@ -1375,7 +1462,10 @@
     {
       "id": 107,
       "name": "Oracle's Elixir",
-      "alternativeName": [],
+      "alternativeName": [
+        "Oracle Elixir",
+        "Oracles Elixir"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [],
@@ -1385,7 +1475,10 @@
     {
       "id": 108,
       "name": "Oracle's Hood",
-      "alternativeName": [],
+      "alternativeName": [
+        "Oracle Hood",
+        "Oracles Hood"
+      ],
       "active": "undefined",
       "passive": "Unique: Magic damage dealt can  critically strike based on critical strike chance to deal 25% bonus true damage.",
       "stats": [
@@ -1398,7 +1491,10 @@
     {
       "id": 109,
       "name": "Overlord's Bloodmail",
-      "alternativeName": [],
+      "alternativeName": [
+        "Overlord Bloodmail",
+        "Overlords Bloodmail"
+      ],
       "active": "undefined",
       "passive": "Unique: Upon scoring a champion  takedown,  heal for 300 over 5 seconds.",
       "stats": [
@@ -1436,7 +1532,10 @@
     {
       "id": 112,
       "name": "Philosopher's Stone",
-      "alternativeName": [],
+      "alternativeName": [
+        "Philosopher Stone",
+        "Philosophers Stone"
+      ],
       "active": "undefined",
       "passive": "Unique – Transmute: Gain  5 per 10 seconds.",
       "stats": [
@@ -1461,7 +1560,10 @@
     {
       "id": 114,
       "name": "Poacher's Dirk",
-      "alternativeName": [],
+      "alternativeName": [
+        "Poacher Dirk",
+        "Poachers Dirk"
+      ],
       "active": "undefined",
       "passive": "Unique – Headhunter: After killing any enemy, your next damaging spell will deal 40 bonus physical damage to all enemies hit (30 second cooldown).",
       "stats": [
@@ -1473,7 +1575,10 @@
     {
       "id": 115,
       "name": "Poacher's Knife",
-      "alternativeName": [],
+      "alternativeName": [
+        "Poacher Knife",
+        "Poachers Knife"
+      ],
       "active": "undefined",
       "passive": "Unique: Upgrades  Smite to  Scavenging Smite.If Scavenging Smite is used on a large monster in the enemy's jungle, the recharge timer is reduced by 50%. Upon killing the affected monster, you gain an additional  30 and 175% bonus movement speed that decays over 2 seconds.",
       "stats": [
@@ -1498,18 +1603,11 @@
     },
     {
       "id": 117,
-      "name": "Pridestalker's Blade",
-      "alternativeName": [],
-      "active": "undefined",
-      "passive": "Unique – Tooth and Nail: Basic attacks versus monsters deal 40 bonus physical damage on-hit. Damaging a monster by any means set it aflame, dealing an additional 80 magic damage over 5 seconds while causing you to  heal for 6 per second for every enemy being burned. While in the jungle or river, regenerate 0 − 8 (based on missing mana) mana per second.",
-      "stats": [],
-      "consume": "undefined",
-      "file": "Pridestalker%27s_Blade_item.webp"
-    },
-    {
-      "id": 118,
       "name": "Priscilla's Blessing",
-      "alternativeName": [],
+      "alternativeName": [
+        "Priscilla Blessing",
+        "Priscillas Blessing"
+      ],
       "active": "Unique: Grants 30% bonus movement speed for 2 seconds (60 second cooldown).",
       "passive": "Unique: Gain 15% capture rate. This does not stack with other capture rate modifiers.",
       "stats": [
@@ -1519,7 +1617,7 @@
       "file": "Priscilla%27s_Blessing_item.webp"
     },
     {
-      "id": 119,
+      "id": 118,
       "name": "Quicksilver Sash",
       "alternativeName": [],
       "active": "Unique – Quicksilver: Removes all  crowd control debuffs (except  Airborne) from your champion (90 second cooldown).",
@@ -1531,9 +1629,12 @@
       "file": "Quicksilver_Sash_item_old.webp"
     },
     {
-      "id": 120,
+      "id": 119,
       "name": "Rabadon's Deathcap",
-      "alternativeName": [],
+      "alternativeName": [
+        "Rabadon Deathcap",
+        "Rabadons Deathcap"
+      ],
       "active": "undefined",
       "passive": "Unique – Magical Opus: Increase your ability power by 35%.",
       "stats": [
@@ -1543,9 +1644,12 @@
       "file": "Rabadon%27s_Deathcap_item_old.webp"
     },
     {
-      "id": 121,
+      "id": 120,
       "name": "Randuin's Omen",
-      "alternativeName": [],
+      "alternativeName": [
+        "Randuin Omen",
+        "Randuins Omen"
+      ],
       "active": "Unique – Humility: Unleash a shockwave around you that  slows nearby enemies by 99% for 0.25 seconds and reduces their attack damage by 10% and critical strike damage by 20% for 4 seconds (60 second cooldown).",
       "passive": "Unique – Rock Solid: Every incoming instance of post-mitigation  basic damage is reduced by 5 (+ 3.5 per 1000 maximum health), maximum 40% reduction each.",
       "stats": [
@@ -1557,9 +1661,12 @@
       "file": "Randuin%27s_Omen_item_old1.webp"
     },
     {
-      "id": 122,
+      "id": 121,
       "name": "Randuin's Omen",
-      "alternativeName": [],
+      "alternativeName": [
+        "Randuin Omen",
+        "Randuins Omen"
+      ],
       "active": "Unique – Humility: Unleash a shockwave around you that  slows nearby enemies by 99% for 0.25 seconds and reduces their attack damage by 10% and critical strike damage by 20% for 4 seconds (60 second cooldown).",
       "passive": "Unique – Rock Solid: Every incoming instance of post-mitigation  basic damage is reduced by 5 (+ 3.5 per 1000 maximum health), maximum 40% reduction each.",
       "stats": [
@@ -1571,7 +1678,7 @@
       "file": "Randuin%27s_Omen_item_old2.webp"
     },
     {
-      "id": 123,
+      "id": 122,
       "name": "Cinderhulk",
       "alternativeName": [],
       "active": "undefined",
@@ -1583,7 +1690,7 @@
       "file": "Ranger%27s_Trailblazer_%28Cinderhulk%29_item.webp"
     },
     {
-      "id": 124,
+      "id": 123,
       "name": "Devourer",
       "alternativeName": [],
       "active": "undefined",
@@ -1596,7 +1703,7 @@
       "file": "Ranger%27s_Trailblazer_%28Devourer%29_item.webp"
     },
     {
-      "id": 125,
+      "id": 124,
       "name": "Runeglaive",
       "alternativeName": [],
       "active": "undefined",
@@ -1610,7 +1717,7 @@
       "file": "Ranger%27s_Trailblazer_%28Runeglaive%29_item.webp"
     },
     {
-      "id": 126,
+      "id": 125,
       "name": "Warrior",
       "alternativeName": [],
       "active": "undefined",
@@ -1623,9 +1730,12 @@
       "file": "Ranger%27s_Trailblazer_%28Warrior%29_item.webp"
     },
     {
-      "id": 127,
+      "id": 126,
       "name": "Ranger's Trailblazer",
-      "alternativeName": [],
+      "alternativeName": [
+        "Ranger Trailblazer",
+        "Rangers Trailblazer"
+      ],
       "active": "undefined",
       "passive": "Unique – Blasting Smite: Upgrades  Smite to  Blasting Smite.Blasting Smite deals 50% damage to all surrounding minions and monsters and  stuns them for 1.5 seconds. If cast on a monster, also restores 15% of missing health and missing mana.",
       "stats": [
@@ -1635,7 +1745,7 @@
       "file": "Ranger%27s_Trailblazer_item.webp"
     },
     {
-      "id": 128,
+      "id": 127,
       "name": "Raptor Cloak",
       "alternativeName": [],
       "active": "undefined",
@@ -1648,7 +1758,7 @@
       "file": "Raptor_Cloak_item.webp"
     },
     {
-      "id": 129,
+      "id": 128,
       "name": "Ravenous Hydra",
       "alternativeName": [],
       "active": "undefined",
@@ -1662,7 +1772,7 @@
       "file": "Ravenous_Hydra_item_old.webp"
     },
     {
-      "id": 130,
+      "id": 129,
       "name": "Recurve Bow",
       "alternativeName": [],
       "active": "undefined",
@@ -1674,7 +1784,7 @@
       "file": "Recurve_Bow_item_old.webp"
     },
     {
-      "id": 131,
+      "id": 130,
       "name": "Refillable Potion",
       "alternativeName": [],
       "active": "undefined",
@@ -1684,7 +1794,7 @@
       "file": "Refillable_Potion_item_old.webp"
     },
     {
-      "id": 132,
+      "id": 131,
       "name": "Regrowth Pendant",
       "alternativeName": [],
       "active": "undefined",
@@ -1696,7 +1806,7 @@
       "file": "Regrowth_Pendant_item.webp"
     },
     {
-      "id": 133,
+      "id": 132,
       "name": "Rejuvenation Bead",
       "alternativeName": [],
       "active": "undefined",
@@ -1708,7 +1818,7 @@
       "file": "Rejuvenation_Bead_item_old.webp"
     },
     {
-      "id": 134,
+      "id": 133,
       "name": "Rejuvenation Potion",
       "alternativeName": [],
       "active": "undefined",
@@ -1718,7 +1828,7 @@
       "file": "Rejuvenation_Potion_item.webp"
     },
     {
-      "id": 135,
+      "id": 134,
       "name": "Righteous Glory",
       "alternativeName": [],
       "active": "Unique: For 4 seconds, grants 75% bonus movement speed and  ghosting while moving towards a  turret or visible enemy  champion within 2000 units. After the duration or when an enemy champion is within 225 range, you emit a shockwave that  slows enemy champions within  450 units by 75% for 2 seconds (90 second cooldown).",
@@ -1734,7 +1844,7 @@
       "file": "Righteous_Glory_item_HD.webp"
     },
     {
-      "id": 136,
+      "id": 135,
       "name": "Rite of Ruin",
       "alternativeName": [],
       "active": "undefined",
@@ -1748,7 +1858,7 @@
       "file": "Rite_of_Ruin_item.webp"
     },
     {
-      "id": 137,
+      "id": 136,
       "name": "Rod of Ages",
       "alternativeName": [],
       "active": "undefined",
@@ -1762,7 +1872,7 @@
       "file": "Rod_of_Ages_item.webp"
     },
     {
-      "id": 138,
+      "id": 137,
       "name": "Ruby Sightstone",
       "alternativeName": [],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (4 charges; 600 range).",
@@ -1774,9 +1884,12 @@
       "file": "Ruby_Sightstone_item.webp"
     },
     {
-      "id": 139,
+      "id": 138,
       "name": "Runaan's Hurricane",
-      "alternativeName": [],
+      "alternativeName": [
+        "Runaan Hurricane",
+        "Runaans Hurricane"
+      ],
       "active": "undefined",
       "passive": "Unique – Wind's Fury: Basic attacks on-attack fire additional bolts at up to 2 enemies in front of you, each dealing 40% AD physical damage. Bolts apply  on-hit effects at 100% effectiveness and are affected by  critical strike modifiers.The bolts will target the closest enemies to you that are not the main target.",
       "stats": [
@@ -1788,7 +1901,7 @@
       "file": "Runaan%27s_Hurricane_item_old.webp"
     },
     {
-      "id": 140,
+      "id": 139,
       "name": "Runegorger",
       "alternativeName": [],
       "active": "undefined",
@@ -1802,7 +1915,7 @@
       "file": "Runegorger_item.webp"
     },
     {
-      "id": 141,
+      "id": 140,
       "name": "Runic Bulwark",
       "alternativeName": [],
       "active": "undefined",
@@ -1816,9 +1929,12 @@
       "file": "Runic_Bulwark_item_HD.webp"
     },
     {
-      "id": 142,
+      "id": 141,
       "name": "Rylai's Crystal Scepter",
-      "alternativeName": [],
+      "alternativeName": [
+        "Rylai Crystal Scepter",
+        "Rylais Crystal Scepter"
+      ],
       "active": "undefined",
       "passive": "Unique – Rimefrost: Dealing ability damage  slows affected units by 30% for 1 second.",
       "stats": [
@@ -1829,9 +1945,12 @@
       "file": "Rylai%27s_Crystal_Scepter_item_old.webp"
     },
     {
-      "id": 143,
+      "id": 142,
       "name": "Sage's Ring",
-      "alternativeName": [],
+      "alternativeName": [
+        "Sage Ring",
+        "Sages Ring"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [
@@ -1841,7 +1960,7 @@
       "file": "Sage%27s_Ring_item.webp"
     },
     {
-      "id": 144,
+      "id": 143,
       "name": "Sanguine Blade",
       "alternativeName": [],
       "active": "undefined",
@@ -1855,9 +1974,12 @@
       "file": "Sanguine_Blade_item_HD.webp"
     },
     {
-      "id": 145,
+      "id": 144,
       "name": "Seeker's Armguard",
-      "alternativeName": [],
+      "alternativeName": [
+        "Seeker Armguard",
+        "Seekers Armguard"
+      ],
       "active": "undefined",
       "passive": "Unique – Witch's Path: Killing a unit grants 0.5 bonus armor, up to a maximum of 15.",
       "stats": [
@@ -1868,7 +1990,7 @@
       "file": "Seeker%27s_Armguard_item_old.webp"
     },
     {
-      "id": 146,
+      "id": 145,
       "name": "Sheen",
       "alternativeName": [],
       "active": "undefined",
@@ -1878,9 +2000,12 @@
       "file": "Sheen_item_old.webp"
     },
     {
-      "id": 147,
+      "id": 146,
       "name": "Shurelya's Reverie",
-      "alternativeName": [],
+      "alternativeName": [
+        "Shurelya Reverie",
+        "Shurelyas Reverie"
+      ],
       "active": "Unique: Grants you and allies within 1000 units 40% bonus movement speed for 3 seconds (90 second cooldown).",
       "passive": "Unique: +10% heal and shield power",
       "stats": [
@@ -1893,7 +2018,7 @@
       "file": "Shurelya%27s_Reverie_item_old.webp"
     },
     {
-      "id": 148,
+      "id": 147,
       "name": "Sightstone",
       "alternativeName": [],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (3 charges; 600 range).",
@@ -1905,9 +2030,12 @@
       "file": "Sightstone_item_HD.webp"
     },
     {
-      "id": 149,
+      "id": 148,
       "name": "Skirmisher's Sabre",
-      "alternativeName": [],
+      "alternativeName": [
+        "Skirmisher Sabre",
+        "Skirmishers Sabre"
+      ],
       "active": "undefined",
       "passive": "Unique – Challenging Smite: Upgrades  Smite to  Challenging Smite.Challenging Smite can be cast on enemy champions to mark them for 4 seconds, reducing their damage against you by 20%, and empowering your basic attacks to deal 48 − 125 (based on level) true damage to them over 2.5 seconds.",
       "stats": [
@@ -1917,9 +2045,12 @@
       "file": "Skirmisher%27s_Sabre_item.webp"
     },
     {
-      "id": 150,
+      "id": 149,
       "name": "Sorcerer's Shoes",
-      "alternativeName": [],
+      "alternativeName": [
+        "Sorcerer Shoes",
+        "Sorcerers Shoes"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [
@@ -1930,7 +2061,7 @@
       "file": "Sorcerer%27s_Shoes_item_old.webp"
     },
     {
-      "id": 151,
+      "id": 150,
       "name": "Soul Shroud",
       "alternativeName": [],
       "active": "undefined",
@@ -1942,7 +2073,7 @@
       "file": "Soul_Shroud_item.webp"
     },
     {
-      "id": 152,
+      "id": 151,
       "name": "Spear of Shojin",
       "alternativeName": [],
       "active": "undefined",
@@ -1956,7 +2087,7 @@
       "file": "Spear_of_Shojin_item.webp"
     },
     {
-      "id": 153,
+      "id": 152,
       "name": "Spear of Shojin",
       "alternativeName": [],
       "active": "undefined",
@@ -1970,9 +2101,12 @@
       "file": "Spear_of_Shojin_item_old.webp"
     },
     {
-      "id": 154,
+      "id": 153,
       "name": "Spectre's Cowl",
-      "alternativeName": [],
+      "alternativeName": [
+        "Spectre Cowl",
+        "Spectres Cowl"
+      ],
       "active": "undefined",
       "passive": "Unique – Incorporeal: After taking damage from a champion, gain 150% base health regeneration for up to 10 seconds. Duration increases with subsequent champion damage taken.",
       "stats": [
@@ -1983,7 +2117,7 @@
       "file": "Spectre's_Cowl_item_old.webp"
     },
     {
-      "id": 155,
+      "id": 154,
       "name": "Spellbinder",
       "alternativeName": [],
       "active": "Unique: Grants 0 − 80 (based on charges) ability power and 0% − 50% (based on charges) bonus movement speed that decays over 4 seconds (60 second cooldown).",
@@ -1996,9 +2130,12 @@
       "file": "Spellbinder_item.webp"
     },
     {
-      "id": 156,
+      "id": 155,
       "name": "Spellthief's Edge",
-      "alternativeName": [],
+      "alternativeName": [
+        "Spellthief Edge",
+        "Spellthiefs Edge"
+      ],
       "active": "undefined",
       "passive": "Unique – Tribute: Grants a charge every 10 seconds, up to 3 charges. If an allied champion is nearby, damaging abilities and attacks against champions and structures consume a charge, up to one per attack or cast. Consuming a charge grants  20. Receive diminishing gold from excessive minion kills.",
       "stats": [
@@ -2011,7 +2148,7 @@
       "file": "Spellthief%27s_Edge_item_old.webp"
     },
     {
-      "id": 157,
+      "id": 156,
       "name": "Spirit of the Ancient Golem",
       "alternativeName": [],
       "active": "Hunter's Ward: Places a  Stealth Ward at the target location that grants  sight of the surrounding area and lasts for 180 seconds (180 second cooldown; 600 range).",
@@ -2025,7 +2162,7 @@
       "file": "Spirit_of_the_Ancient_Golem_item.webp"
     },
     {
-      "id": 158,
+      "id": 157,
       "name": "Spirit of the Elder Lizard",
       "alternativeName": [],
       "active": "undefined",
@@ -2038,7 +2175,7 @@
       "file": "Spirit_of_the_Elder_Lizard_item.webp"
     },
     {
-      "id": 159,
+      "id": 158,
       "name": "Spirit of the Spectral Wraith",
       "alternativeName": [],
       "active": "undefined",
@@ -2051,7 +2188,7 @@
       "file": "Spirit_of_the_Spectral_Wraith_item.webp"
     },
     {
-      "id": 160,
+      "id": 159,
       "name": "Spirit Stone",
       "alternativeName": [],
       "active": "undefined",
@@ -2061,7 +2198,7 @@
       "file": "Spirit_Stone_item.webp"
     },
     {
-      "id": 161,
+      "id": 160,
       "name": "Spirit Visage",
       "alternativeName": [],
       "active": "undefined",
@@ -2076,7 +2213,7 @@
       "file": "Spirit_Visage_item_old1.webp"
     },
     {
-      "id": 162,
+      "id": 161,
       "name": "Spirit Visage",
       "alternativeName": [],
       "active": "undefined",
@@ -2091,9 +2228,12 @@
       "file": "Spirit_Visage_item_old2.webp"
     },
     {
-      "id": 163,
-      "name": "Bloodrazor",
-      "alternativeName": [],
+      "id": 162,
+      "name": "Stalker's Blade (Bloodrazor)",
+      "alternativeName": [
+        "Stalker Blade (Bloodrazor)",
+        "Stalkers Blade (Bloodrazor)"
+      ],
       "active": "undefined",
       "passive": "Unique: Basic attacks deal 4% of the target's maximum health bonus physical damage on-hit, capped at 75 damage against minions and monsters.",
       "stats": [
@@ -2103,11 +2243,14 @@
       "file": "Stalker%27s_Blade_%28Bloodrazor%29_item.webp"
     },
     {
-      "id": 164,
+      "id": 163,
       "name": "Stalker's Blade",
-      "alternativeName": [],
+      "alternativeName": [
+        "Stalker Blade",
+        "Stalkers Blade"
+      ],
       "active": "undefined",
-      "passive": "Unique – Chilling Smite: Upgrades  Smite to  Chilling Smite. Chilling Smite can be cast on enemy champions, dealing 28 − 166 (based on level) true damage and  slowing the target by 20% for 2 seconds, while also increasing your own movement speed by 20% for the same duration.",
+      "passive": "Unique – Chilling Smite: Upgrades  Smite to  Chilling Smite.Chilling Smite can be cast on enemy champions, dealing 28 − 166 (based on level) true damage and  slowing the target by 20% for 2 seconds, while also increasing your own movement speed by 20% for the same duration.",
       "stats": [
         "+10% life steal against monsters"
       ],
@@ -2115,9 +2258,12 @@
       "file": "Stalker%27s_Blade_item.webp"
     },
     {
-      "id": 165,
+      "id": 164,
       "name": "Stark's Fervor",
-      "alternativeName": [],
+      "alternativeName": [
+        "Stark Fervor",
+        "Starks Fervor"
+      ],
       "active": "undefined",
       "passive": "undefined",
       "stats": [
@@ -2127,7 +2273,7 @@
       "file": "Stark%27s_Fervor_item.webp"
     },
     {
-      "id": 166,
+      "id": 165,
       "name": "Stat-Stick of Stoicism",
       "alternativeName": [],
       "active": "undefined",
@@ -2151,7 +2297,7 @@
       "file": "Stat-Stick_of_Stoicism_item.webp"
     },
     {
-      "id": 167,
+      "id": 166,
       "name": "Statikk Shiv",
       "alternativeName": [],
       "active": "undefined",
@@ -2165,7 +2311,7 @@
       "file": "Statikk_Shiv_item_HD.webp"
     },
     {
-      "id": 168,
+      "id": 167,
       "name": "Stealth Ward (Item)",
       "alternativeName": [],
       "active": "undefined",
@@ -2175,7 +2321,7 @@
       "file": "Stealth_Ward_%28Item%29_item.webp"
     },
     {
-      "id": 169,
+      "id": 168,
       "name": "Stinger",
       "alternativeName": [],
       "active": "undefined",
@@ -2187,7 +2333,7 @@
       "file": "Stinger_item_HD.webp"
     },
     {
-      "id": 170,
+      "id": 169,
       "name": "Sunfire Cape",
       "alternativeName": [],
       "active": "undefined",
@@ -2200,7 +2346,7 @@
       "file": "Sunfire_Cape_item_HD.webp"
     },
     {
-      "id": 171,
+      "id": 170,
       "name": "Sword of the Occult",
       "alternativeName": [],
       "active": "undefined",
@@ -2212,9 +2358,12 @@
       "file": "Sword_of_the_Occult_item.webp"
     },
     {
-      "id": 172,
+      "id": 171,
       "name": "Targon's Brace",
-      "alternativeName": [],
+      "alternativeName": [
+        "Targon Brace",
+        "Targons Brace"
+      ],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (3 charges; 600 range).",
       "passive": "Unique – Spoils of War: Grants a charge every 30 seconds, up to 3 charges.  Melee basic attacks can consume one charge to  execute minions below 215 − 470 (based on level) (+ 100% AD) health. Killing a minion by any means with a charge  heals you and the nearest allied champion for 10 − 60 (based on missing health), reduced by 50% if the user is  ranged, and grants them kill  gold. These effects require an allied champion within 1050 units of the user.",
       "stats": [
@@ -2226,7 +2375,7 @@
       "file": "Targon%27s_Brace_item_HD.webp"
     },
     {
-      "id": 173,
+      "id": 172,
       "name": "Tear of the Goddess",
       "alternativeName": [],
       "active": "undefined",
@@ -2238,7 +2387,7 @@
       "file": "Tear_of_the_Goddess_item_old.webp"
     },
     {
-      "id": 174,
+      "id": 173,
       "name": "The Black Cleaver",
       "alternativeName": [],
       "active": "undefined",
@@ -2252,7 +2401,7 @@
       "file": "The_Black_Cleaver_item_old.webp"
     },
     {
-      "id": 175,
+      "id": 174,
       "name": "The Brutalizer",
       "alternativeName": [],
       "active": "undefined",
@@ -2264,9 +2413,12 @@
       "file": "The_Brutalizer_item.webp"
     },
     {
-      "id": 176,
+      "id": 175,
       "name": "The Rose's Pride",
-      "alternativeName": [],
+      "alternativeName": [
+        "The Rose Pride",
+        "The Roses Pride"
+      ],
       "active": "Unique: Grants a  shield for 4 seconds that absorbs 200 (+ 150% AP) damage (45 second cooldown).",
       "passive": "undefined",
       "stats": [
@@ -2277,7 +2429,7 @@
       "file": "The_Rose%27s_Pride_item.webp"
     },
     {
-      "id": 177,
+      "id": 176,
       "name": "Thornmail",
       "alternativeName": [],
       "active": "undefined",
@@ -2290,7 +2442,7 @@
       "file": "Thornmail_item_old.webp"
     },
     {
-      "id": 178,
+      "id": 177,
       "name": "Tiamat",
       "alternativeName": [],
       "active": "undefined",
@@ -2302,7 +2454,7 @@
       "file": "Tiamat_item_old.webp"
     },
     {
-      "id": 179,
+      "id": 178,
       "name": "Total Biscuit of Rejuvenation",
       "alternativeName": [],
       "active": "undefined",
@@ -2312,9 +2464,12 @@
       "file": "Total_Biscuit_of_Rejuvenation_item_HD.webp"
     },
     {
-      "id": 180,
+      "id": 179,
       "name": "Tracker's Knife",
-      "alternativeName": [],
+      "alternativeName": [
+        "Tracker Knife",
+        "Trackers Knife"
+      ],
       "active": "Unique – Warding: Consumes a charge to place a  Stealth Ward at the target location, which grants  sight of the surrounding area. Charges refill upon visiting the shop (2 charges; 600 range).",
       "passive": "Unique – Tooth and Nail: Basic attacks versus monsters deal 30 bonus physical damage on-hit and grant 15% bonus attack speed for 2 seconds. Damaging a monster by any means set it aflame, dealing an additional 80 magic damage over 5 seconds while causing you to  heal for 6 per second for every enemy being burned.Killing large or epic monsters grants 50 bonus experience, and gain an additional 50 for each level the monster is higher than you.",
       "stats": [
@@ -2325,7 +2480,7 @@
       "file": "Tracker%27s_Knife_item.webp"
     },
     {
-      "id": 181,
+      "id": 180,
       "name": "Trinity Force",
       "alternativeName": [],
       "active": "undefined",
@@ -2340,7 +2495,7 @@
       "file": "Trinity_Force_item_old.webp"
     },
     {
-      "id": 182,
+      "id": 181,
       "name": "Twin Shadows",
       "alternativeName": [],
       "active": "Unique – Spectral Pursuit: Summons 2  untargetable ghosts for 6 seconds that seek out nearby enemy champions. Ghosts, on contact,  reveal and  slow targets by 40% for 2 − 5 (based on distance traveled) seconds (90 second cooldown).",
@@ -2354,7 +2509,7 @@
       "file": "Twin_Shadows_item.webp"
     },
     {
-      "id": 183,
+      "id": 182,
       "name": "Vampiric Scepter",
       "alternativeName": [],
       "active": "undefined",
@@ -2367,7 +2522,7 @@
       "file": "Vampiric_Scepter_item_old.webp"
     },
     {
-      "id": 184,
+      "id": 183,
       "name": "Vision Ward",
       "alternativeName": [],
       "active": "undefined",
@@ -2377,7 +2532,7 @@
       "file": "Vision_Ward_item.webp"
     },
     {
-      "id": 185,
+      "id": 184,
       "name": "Void Staff",
       "alternativeName": [],
       "active": "undefined",
@@ -2390,9 +2545,12 @@
       "file": "Void_Staff_item_old.webp"
     },
     {
-      "id": 186,
+      "id": 185,
       "name": "Warden's Mail",
-      "alternativeName": [],
+      "alternativeName": [
+        "Warden Mail",
+        "Wardens Mail"
+      ],
       "active": "undefined",
       "passive": "Unique – Rock Solid: Every incoming instance of post-mitigation  basic damage is reduced by 5 (+ 3.5 per 1000 maximum health), maximum 40% reduction each.",
       "stats": [
@@ -2402,9 +2560,12 @@
       "file": "Warden's_Mail_item_old.webp"
     },
     {
-      "id": 187,
+      "id": 186,
       "name": "Warmog's Armor",
-      "alternativeName": [],
+      "alternativeName": [
+        "Warmog Armor",
+        "Warmogs Armor"
+      ],
       "active": "undefined",
       "passive": "Unique: Grants Warmog's Heart if you have at least 1100 bonus health.",
       "stats": [
@@ -2416,7 +2577,7 @@
       "file": "Warmog%27s_Armor_item_old.webp"
     },
     {
-      "id": 188,
+      "id": 187,
       "name": "Will of the Ancients",
       "alternativeName": [],
       "active": "undefined",
@@ -2429,9 +2590,12 @@
       "file": "Will_of_the_Ancients_item.webp"
     },
     {
-      "id": 189,
+      "id": 188,
       "name": "Wit's End",
-      "alternativeName": [],
+      "alternativeName": [
+        "Wit End",
+        "Wits End"
+      ],
       "active": "undefined",
       "passive": "Unique – Fray: Basic attacks deal 15 − 80 (based on level) bonus magic damage on-hit and grant you 20 bonus movement speed for 2 seconds.",
       "stats": [
@@ -2443,9 +2607,12 @@
       "file": "Wit%27s_End_item_old2.webp"
     },
     {
-      "id": 190,
+      "id": 189,
       "name": "Wizard's Regalia",
-      "alternativeName": [],
+      "alternativeName": [
+        "Wizard Regalia",
+        "Wizards Regalia"
+      ],
       "active": "undefined",
       "passive": "Unique: +25 ability power",
       "stats": [
@@ -2456,9 +2623,12 @@
       "file": "Wizard%27s_Regalia_item.webp"
     },
     {
-      "id": 191,
+      "id": 190,
       "name": "Wriggle's Lantern",
-      "alternativeName": [],
+      "alternativeName": [
+        "Wriggle Lantern",
+        "Wriggles Lantern"
+      ],
       "active": "Places a  Stealth Ward at target location that grants  sight of the surrounding area (180 second cooldown; 600 range).",
       "passive": "undefined",
       "stats": [
@@ -2471,7 +2641,7 @@
       "file": "Wriggle%27s_Lantern_item.webp"
     },
     {
-      "id": 192,
+      "id": 191,
       "name": "Yordle Stompers",
       "alternativeName": [],
       "active": "Unique: Blink to the target location (240 second cooldown).",
@@ -2481,9 +2651,12 @@
       "file": "Yordle_Stompers_item.webp"
     },
     {
-      "id": 193,
+      "id": 192,
       "name": "Youmuu's Ghostblade",
-      "alternativeName": [],
+      "alternativeName": [
+        "Youmuu Ghostblade",
+        "Youmuus Ghostblade"
+      ],
       "active": "Unique – Wraith Step: Gain 20% bonus movement speed and  ghosting for 6 seconds (45 second cooldown).",
       "passive": "Unique – Haunt: Gain 40 bonus movement speed while out-of-combat.",
       "stats": [
@@ -2495,7 +2668,7 @@
       "file": "Youmuu%27s_Ghostblade_item_old.webp"
     },
     {
-      "id": 194,
+      "id": 193,
       "name": "Zeal",
       "alternativeName": [],
       "active": "undefined",
@@ -2508,9 +2681,12 @@
       "file": "Zeal_item_old2.webp"
     },
     {
-      "id": 195,
+      "id": 194,
       "name": "Zeke's Harbinger",
-      "alternativeName": [],
+      "alternativeName": [
+        "Zeke Harbinger",
+        "Zekes Harbinger"
+      ],
       "active": "Unique – Conduit: Bind to the target allied champion. This will remove all Conduits from them (60 second cooldown).",
       "passive": "Unique: While within 1000 units of your Conduit, you both generate 1 charge every second. Generate 8 charges from spell casts and 4 charges from basic attacks. Your Conduit also generates 4 charges from their spell casts and 2 charges from their basic attacks. At 100 charges, dealing damage grants you and your Conduit 20% increased ability power and 50% critical strike chance for 8 seconds. Lose all charges if you are no longer in range of your Conduit or hold 100 charges for longer than 5 seconds.",
       "stats": [
@@ -2523,7 +2699,7 @@
       "file": "Zeke%27s_Harbinger_item.webp"
     },
     {
-      "id": 196,
+      "id": 195,
       "name": "Zephyr",
       "alternativeName": [],
       "active": "undefined",
@@ -2537,9 +2713,12 @@
       "file": "Zephyr_item_HD.webp"
     },
     {
-      "id": 197,
+      "id": 196,
       "name": "Zhonya's Hourglass",
-      "alternativeName": [],
+      "alternativeName": [
+        "Zhonya Hourglass",
+        "Zhonyas Hourglass"
+      ],
       "active": "Unique – Stasis: Put yourself in  stasis for 2.5 seconds, rendering you  untargetable and  invulnerable for the duration but also unable to move, declare basic attacks, cast abilities, use summoner spells, or activate items (120 second cooldown).",
       "passive": "undefined",
       "stats": [
@@ -2551,9 +2730,12 @@
       "file": "Zhonya%27s_Hourglass_item_old.webp"
     },
     {
-      "id": 198,
+      "id": 197,
       "name": "Zhonya's Ring",
-      "alternativeName": [],
+      "alternativeName": [
+        "Zhonya Ring",
+        "Zhonyas Ring"
+      ],
       "active": "Unique – Stasis: Put yourself in  stasis for 2 seconds, rendering you  untargetable and  invulnerable for the duration but also unable to move, declare basic attacks, cast abilities, use summoner spells, or activate items (90 second cooldown).",
       "passive": "Unique: Increase your ability power by 25%.",
       "stats": [
@@ -2563,7 +2745,7 @@
       "file": "Zhonya%27s_Ring_item.webp"
     },
     {
-      "id": 199,
+      "id": 198,
       "name": "Zz'Rot Portal",
       "alternativeName": [],
       "active": "Unique: Spawns a Void Gate at the target location for 120 seconds. Every 4 seconds the gate summons a  Voidspawn that travels down the nearest lane and decays in health over time. The  Voidspawn explodes upon attacking structures.  Voidspawn do not attack enemy champions nor void targets. The first and every fourth  Voidspawn deals damage equal to 15% of your maximum health (120 second cooldown).",

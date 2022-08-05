@@ -9,6 +9,7 @@ data = {"item": [
 items = os.listdir('./Old items')
 for i, scuffedName in enumerate(items):
     item = scuffedName[:scuffedName.find("_item")]
+    itemName = item.replace('_',' ').replace('%27','\'').replace('%28','(').replace('%29',')')
     url = f"https://leagueoflegends.fandom.com/wiki/{item}"
     result = requests.get(url)
     doc = BeautifulSoup(result.text, 'html.parser')
@@ -37,10 +38,14 @@ for i, scuffedName in enumerate(items):
     #print(passive)
     #print(stats)
     #print(consume)
+    alternativeNames = []
+    if "'s" in itemName:
+        alternativeNames.append(itemName.replace("'s",""))
+        alternativeNames.append(itemName.replace("'",""))
     fullItem = {
             'id': i,
-            'name': item.replace('_',' ').replace('%27','\'').replace('%28','(').replace('%29',')'),
-            'alternativeName': [],
+            'name': itemName,
+            'alternativeName': alternativeNames,
             'active': active,
             'passive': passive,
             'stats': stats,
